@@ -34,7 +34,7 @@
 
 <!-- SVG RULES / BOUNDARIES WILL GO HERE -->
 
-<img src="./Ivan n andrew.png" width="600">
+<img src="./Ivan n andrew.png" width="300">
 
 </div>
 
