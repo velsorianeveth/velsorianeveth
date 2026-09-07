@@ -12,8 +12,6 @@
 
 </div>
 
-<br>
-
 <!-- ==================== RULES / BOUNDARIES ==================== -->
 
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
