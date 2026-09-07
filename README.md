@@ -10,7 +10,7 @@
 </td>
 
 <td align="center" width="50%" valign="middle" style="border:0;">
-<img src="./aboutme.svg" width="360">
+<img src="./aboutme.svg" width="380">
 </td>
 
 <td align="center" width="25%" valign="middle" style="border:0;">
