@@ -18,7 +18,7 @@
 
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
 
-<img src="./boundaries.svg" width="440">
+<img src="./boundaries.svg" width="480">
 
 <img src="./Ivan n andrew.png" width="300">
 
