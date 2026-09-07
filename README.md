@@ -41,7 +41,7 @@
 
 <td align="center" width="35%" valign="middle" style="border: none;">
 
-<img src="./Ivan n andrew.png" width="900">
+<img src="./Ivan n andrew.png" width="600">
 
 </td>
 
