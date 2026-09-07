@@ -8,7 +8,7 @@
 <tr>
 
 <td align="center" width="25%" valign="middle">
-<img src="./Andrew chibi.png" width="140">
+<img src="./Andrew chibi.png" width="175">
 </td>
 
 <td align="center" width="50%" valign="middle">
@@ -22,7 +22,7 @@
 </td>
 
 <td align="center" width="25%" valign="middle">
-<img src="./Ivan chibi.png" width="140">
+<img src="./Ivan chibi.png" width="175">
 </td>
 
 </tr>
