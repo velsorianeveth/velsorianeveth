@@ -4,12 +4,12 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
 
 <img src="./Andrew chibi.png" width="240">
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="./aboutme.svg" width="490">
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="./Ivan chibi.png" width="240">
 
 </div>
@@ -18,10 +18,10 @@
 
 <!-- ==================== RULES / BOUNDARIES ==================== -->
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
 
 <img src="./boundaries.svg" width="360">
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="./Ivan n andrew.png" width="300">
 
 </div>
