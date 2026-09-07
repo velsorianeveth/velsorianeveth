@@ -1,10 +1,73 @@
+<!-- ==================== WELCOME ==================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Qwigley&size=40&pause=1000&color=3FB1F7E4&background=B4FF9600&vCenter=true&width=600&lines=The+ocean+doesn't+belong+to+anyone%2C+but+we+claim+the+horizon" alt="Typing SVG" />
+  <img src="./Welcome.png" width="180">
 </p>
-<div align="center">
-<div align="center">
 
-<img src="./assets/jadenman_chibi-removebg-preview.png" width="100" /><br/>
-<font size="4"><i>“Burger...”</i> 🍔</font>
 
-</div>
+<!-- ==================== MAIN INFO ==================== -->
+
+<table align="center" width="100%">
+  <tr>
+    <!-- LEFT CHARACTER -->
+    <td align="center" width="25%" valign="middle">
+      <img src="./Andrew chibi.png" width="140">
+    </td>
+
+    <!-- CENTER INFORMATION -->
+    <td align="center" width="50%" valign="middle">
+
+      <img src="./andrew banner1.jpg" width="380">
+
+      <br><br>
+
+      <!-- YOUR SVG WILL GO HERE -->
+      <!-- PASTE YOUR SVG HERE -->
+
+      <br>
+
+    </td>
+
+    <!-- RIGHT CHARACTER -->
+    <td align="center" width="25%" valign="middle">
+      <img src="./Ivan chibi.png" width="140">
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+<!-- ==================== RULES / BOUNDARIES ==================== -->
+
+<table align="center" width="100%">
+  <tr>
+
+    <!-- LEFT : YOUR SVG -->
+    <td align="center" width="65%" valign="middle">
+
+      <!-- YOUR RULE / BOUNDARY SVG WILL GO HERE -->
+      <!-- PASTE YOUR SVG HERE -->
+
+    </td>
+
+    <!-- RIGHT : IVAN + ANDREW -->
+    <td align="center" width="35%" valign="middle">
+      <img src="./Ivan n andrew.png" width="180">
+    </td>
+
+  </tr>
+</table>
+
+
+<br><br>
+
+
+<!-- ==================== GOODBYE ==================== -->
+
+<p align="center">
+  <img src="./baibai.png" width="85">
+  <br>
+  <b>𝖇𝖆𝖎𝖇𝖆𝖎</b>
+</p>
