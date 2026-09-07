@@ -2,8 +2,6 @@
 <img src="./Welcome.png" width="180">
 </p>
 
-<br>
-
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
 
 <img src="./Andrew chibi.png" width="240">
@@ -20,7 +18,7 @@
 
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
 
-<img src="./boundaries.svg" width="360">
+<img src="./boundaries.svg" width="440">
 
 <img src="./Ivan n andrew.png" width="300">
 
