@@ -2,29 +2,25 @@
 <img src="./Welcome.png" width="180">
 </p>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
+<br>
 
-<img src="./Andrew chibi.png" width="240">
-
-<img src="./aboutme.svg" width="490">
-
-<img src="./Ivan chibi.png" width="240">
-
-</div>
-
-<!-- ==================== RULES / BOUNDARIES ==================== -->
-
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
-
-<img src="./boundaries.svg" width="480">
-
-<img src="./Ivan n andrew.png" width="300">
-
-</div>
+<p align="center" style="white-space: nowrap;">
+<img src="./Andrew chibi.png" width="210">
+&nbsp;&nbsp;&nbsp;
+<img src="./aboutme.svg" width="440">
+&nbsp;&nbsp;&nbsp;
+<img src="./Ivan chibi.png" width="210">
+</p>
 
 <br>
 
-<!-- ==================== GOODBYE ==================== -->
+<p align="center" style="white-space: nowrap;">
+<img src="./boundaries.svg" width="330">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./Ivan n andrew.png" width="280">
+</p>
+
+<br>
 
 <p align="center">
 <img src="./baibai.png" width="85">
