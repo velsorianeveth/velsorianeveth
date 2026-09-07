@@ -1,4 +1,7 @@
 <p align="center">
+<img src="./aboutme.svg" width="390">
+</p>
+<p align="center">
 <img src="./Welcome.png" width="180">
 </p>
 
