@@ -24,13 +24,19 @@
 
 <div align="center">
 
-<!-- SVG RULES / BOUNDARIES WILL GO HERE -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
 
+<td align="center" width="55%" valign="middle" style="border: none;">
+<img src="./boundaries.svg" width="360">
+</td>
+
+<td align="center" width="45%" valign="middle" style="border: none;">
 <img src="./Ivan n andrew.png" width="300">
+</td>
 
-</div>
-
-<br>
+</tr>
+</table>
 
 <!-- ==================== GOODBYE ==================== -->
 
