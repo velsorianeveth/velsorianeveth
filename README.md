@@ -6,15 +6,15 @@
 <tr>
 
 <td align="center" width="25%" valign="middle" style="border:0;">
-<img src="./Andrew chibi.png" width="175">
+<img src="./Andrew chibi.png" width="190">
 </td>
 
 <td align="center" width="50%" valign="middle" style="border:0;">
-<img src="./aboutme.svg" width="440">
+<img src="./aboutme.svg" width="460">
 </td>
 
 <td align="center" width="25%" valign="middle" style="border:0;">
-<img src="./Ivan chibi.png" width="175">
+<img src="./Ivan chibi.png" width="190">
 </td>
 
 </tr>
