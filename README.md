@@ -1,9 +1,8 @@
 <p align="center">
 <img src="./Welcome.png" width="180">
 </p>
-
 <div align="center">
-<img src="./Andrew chibi.png" width="255"><img src="./aboutme.svg" width="440"> 
+<img src="./Andrew chibi.png" width="255"><img src="./aboutme.svg" width="460"> 
 </div>
 <!-- ==================== RULES / BOUNDARIES ==================== -->
 
