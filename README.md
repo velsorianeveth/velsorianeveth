@@ -2,13 +2,17 @@
 <img src="./Welcome.png" width="180">
 </p>
 
+<br>
+
 <table align="center" width="100%">
 <tr>
+
 <td align="center" width="25%" valign="middle">
 <img src="./Andrew chibi.png" width="140">
 </td>
 
 <td align="center" width="50%" valign="middle">
+
 <img src="./andrew banner1.jpg" width="380">
 
 <br><br>
@@ -20,22 +24,27 @@
 <td align="center" width="25%" valign="middle">
 <img src="./Ivan chibi.png" width="140">
 </td>
+
 </tr>
 </table>
 
-<br>
+<br><br>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border: none;">
 <tr>
-<td align="center" width="65%" valign="middle">
+
+<td align="center" width="65%" valign="middle" style="border: none;">
 
 <!-- SVG RULES / BOUNDARIES WILL GO HERE -->
 
 </td>
 
-<td align="center" width="35%" valign="middle">
-<img src="./Ivan n andrew.png" width="180">
+<td align="center" width="35%" valign="middle" style="border: none;">
+
+<img src="./Ivan n andrew.png" width="230">
+
 </td>
+
 </tr>
 </table>
 
