@@ -8,7 +8,7 @@
 <!-- ==================== RULES / BOUNDARIES ==================== -->
 
 <div align="center">
-<img src="./boundaries.svg" width="340">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Ivan n andrew.png" width="280">
+<img src="./boundaries.svg" width="440">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Ivan n andrew.png" width="280">
 </div>
 
 <!-- ==================== GOODBYE ==================== -->
