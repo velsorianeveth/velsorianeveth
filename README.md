@@ -2,6 +2,8 @@
 <img src="./Welcome.png" width="180">
 </p>
 
+<br>
+
 <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 
@@ -30,7 +32,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <!-- ==================== GOODBYE ==================== -->
 
