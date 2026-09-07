@@ -28,27 +28,19 @@
 </tr>
 </table>
 
-<br><br>
+<!-- ==================== RULES / BOUNDARIES ==================== -->
 
-<table align="center" width="100%" style="border: none;">
-<tr>
-
-<td align="center" width="65%" valign="middle" style="border: none;">
+<div align="center">
 
 <!-- SVG RULES / BOUNDARIES WILL GO HERE -->
 
-</td>
-
-<td align="center" width="35%" valign="middle" style="border: none;">
-
 <img src="./Ivan n andrew.png" width="600">
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <br><br>
+
+<!-- ==================== GOODBYE ==================== -->
 
 <p align="center">
 <img src="./baibai.png" width="85">
