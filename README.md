@@ -2,26 +2,18 @@
 <img src="./Welcome.png" width="180">
 </p>
 
-<br>
-
-<table align="center" width="100%">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 
-<td align="center" width="25%" valign="middle">
+<td align="center" width="25%" valign="middle" style="border:0;">
 <img src="./Andrew chibi.png" width="175">
 </td>
 
-<td align="center" width="50%" valign="middle">
-
-<img src="./andrew banner1.jpg" width="380">
-
-<br>
-
-<img src="./aboutme.svg" width="390">
-
+<td align="center" width="50%" valign="middle" style="border:0;">
+<img src="./aboutme.svg" width="360">
 </td>
 
-<td align="center" width="25%" valign="middle">
+<td align="center" width="25%" valign="middle" style="border:0;">
 <img src="./Ivan chibi.png" width="175">
 </td>
 
