@@ -1,7 +1,4 @@
 <p align="center">
-<img src="./aboutme.svg" width="390">
-</p>
-<p align="center">
 <img src="./Welcome.png" width="180">
 </p>
 
@@ -18,9 +15,9 @@
 
 <img src="./andrew banner1.jpg" width="380">
 
-<br><br>
+<br>
 
-<!-- SVG INFORMATION WILL GO HERE -->
+<img src="./aboutme.svg" width="390">
 
 </td>
 
