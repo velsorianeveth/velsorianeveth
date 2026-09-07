@@ -1,0 +1,140 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Pink + soft yellow blended gradient -->
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3A6C8"/>
+      <stop offset="45%" stop-color="#F6B7C9"/>
+      <stop offset="70%" stop-color="#F0D3A4"/>
+      <stop offset="100%" stop-color="#F5DFA1"/>
+    </linearGradient>
+
+    <!-- Soft glow like About Me -->
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- ================= TITLE ================= -->
+
+  <text
+    x="300"
+    y="45"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="25"
+    font-style="italic"
+    font-weight="bold"
+    letter-spacing="1.5"
+    fill="url(#mainGradient)"
+    filter="url(#softGlow)">
+    BOUNDARIES / RULES
+  </text>
+
+
+  <!-- ================= ORNAMENTS ================= -->
+
+  <text
+    x="175"
+    y="45"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="13"
+    fill="#F1B3C9">
+    ✦
+  </text>
+
+  <text
+    x="425"
+    y="45"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="13"
+    fill="#EBD99D">
+    ✦
+  </text>
+
+
+  <!-- ================= RULES ================= -->
+
+  <text
+    x="300"
+    y="88"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="14"
+    font-style="italic"
+    fill="url(#mainGradient)">
+    ♡ DNI if you're under 10 or over 25
+  </text>
+
+
+  <text
+    x="300"
+    y="121"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="14"
+    font-style="italic"
+    fill="url(#mainGradient)">
+    ♡ Please don't copy my skins without my permission
+  </text>
+
+
+  <text
+    x="300"
+    y="154"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="14"
+    font-style="italic"
+    fill="url(#mainGradient)">
+    ♡ I hate boundary breakers, especially towards Minecraft YTBs
+  </text>
+
+
+  <text
+    x="300"
+    y="187"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="14"
+    font-style="italic"
+    fill="url(#mainGradient)">
+    ♡ Not a fan of roleplayers... erm
+  </text>
+
+
+  <text
+    x="300"
+    y="220"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="14"
+    font-style="italic"
+    fill="url(#mainGradient)">
+    ♡ DNI darkshippers &amp; proshippers
+  </text>
+
+
+  <!-- ================= BOTTOM ORNAMENT ================= -->
+
+  <text
+    x="300"
+    y="265"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="14"
+    fill="url(#mainGradient)"
+    letter-spacing="4">
+    ˚₊‧ ✦ ‧₊˚
+  </text>
+
+</svg>
