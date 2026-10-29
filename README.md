@@ -10,6 +10,23 @@ a familiar chair gathering dust,
 a voice that once warmed the room  
 now folded into the silence of goodbye.
 
+somewhere along the way,  
+i misplaced the hands  
+that once held mine through the dark.  
+perhaps i was the storm this time,  
+the careless wind that shook  
+the branches i swore to protect.
+
+my own mistakes became locked doors,  
+and the names i used to call home  
+grew distant beyond them.  
+i keep revisiting those quiet hallways,  
+searching for a moment  
+where i could have chosen differently,  
+where a softer word,  
+a gentler heart,  
+might have changed the ending.
+
 i climbed a mountain  
 with a sunrise stitched into my dreams,  
 believing every aching step  
