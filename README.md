@@ -1,4 +1,4 @@
-<p align="center">
+ 
 some days, i feel like a dying lantern  
 left burning in an empty house,  
 where the roof has learned to crack  
@@ -71,4 +71,4 @@ is not how little light remains,
 but how long it burned  
 before anyone noticed  
 the room had grown cold.
-<p align="center">
+ 
